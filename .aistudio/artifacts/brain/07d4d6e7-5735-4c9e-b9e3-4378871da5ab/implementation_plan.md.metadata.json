@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural blueprint and implementation plan for PT Sport Universal Indonesia (Padel Beans) Multi-Unit ERP. Covers Single General Ledger architecture, Business Unit & Physical Location multi-dimensional tracking, Periodic Inventory HPP engine, 3-Way Matching with tolerance gates, Anti-Fake-Revenue safeguards, tournament deferred revenue flows, and high-density financial cockpit.",
+  "updatedAt":  "2026-10-23T08:10:58.656772618Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

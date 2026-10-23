@@ -1,0 +1,6 @@
+{
+  "name": "Padel Beans Multi-Unit ERP",
+  "description": "Sistem ERP Keuangan, Inventori Periodik, dan Operasional Multi-Unit PT Sport Universal Indonesia (Padel Beans) dengan Single General Ledger, 3-Way Matching, dan perlindungan Anti-Omzet Palsu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
